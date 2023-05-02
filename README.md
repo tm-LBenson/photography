@@ -2,6 +2,10 @@
 
 This is a static website for a fictional photographer named Lewis Benson. The website is designed to showcase Lewis's photographic portfolio while providing information about him and a means of contacting him.
 
+## Live Preview
+
+[Netlify Deployment](https://benson-photos.netlify.app)
+
 ## Project Structure
 
 The project consists of the following files:
