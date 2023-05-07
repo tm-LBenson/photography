@@ -1,6 +1,6 @@
 # Benson Photography Website
 
-This is a static website for a fictional photographer named Lewis Benson. The website is designed to showcase Lewis's photographic portfolio while providing information about him and a means of contacting him.
+This is a static website built for learning purposes. The site can be used as a template to get started on a real photography portfolio.
 
 ## Live Preview
 
@@ -26,11 +26,11 @@ The home page displays a selection of Lewis's photography. Each photograph is ac
 
 ### About (about.html)
 
-The about page provides background information on Lewis Benson, detailing his experience and approach to photography.
+The about page provides background information on me.
 
 ### Contact (contact.html)
 
-The contact page features a form that visitors can use to send a message to Lewis. It also includes a link to his LinkedIn profile.
+The contact page features a form that visitors can use to send a message to me. It also includes a link to my LinkedIn profile.
 
 ## Usage
 
